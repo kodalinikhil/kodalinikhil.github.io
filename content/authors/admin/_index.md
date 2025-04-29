@@ -52,8 +52,8 @@ education:
       Hoping to learn a lot!
   - area: Dual Enrollment w/ High School
     institution: West Valley College
-    date_start: 2024
-    date_end: 2025
+    date_start: 2024-06-01
+    date_end: 2025-01-01
     summary: |
       GPA: 4.0/4.0
 
@@ -91,7 +91,7 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Gold Medal, USA Physics Olympiad
-    date: '2024'
+    date: '2024-05-01'
     awarder: American Association of Physics Teachers
     icon: 
     summary: |
