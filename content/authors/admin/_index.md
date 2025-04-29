@@ -69,6 +69,9 @@ work:
     date_end: ''
     summary: |
 
+languages: 
+  - name: English
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
