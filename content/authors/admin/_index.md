@@ -85,6 +85,9 @@ skills:
         description: 'I enjoy playing and listening to classical music.'
         icon: 
 
+languages:
+  - name: English
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
