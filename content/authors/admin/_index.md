@@ -76,14 +76,14 @@ skills:
     items:
       - name: Java
         description: ''
-        icon: code-bracket
+        icon: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Viola Player
         description: 'I enjoy playing and listening to classical music.'
-        icon: person-simple-walk
+        icon: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -93,7 +93,7 @@ awards:
   - title: Gold Medal, USA Physics Olympiad
     date: '2024'
     awarder: American Association of Physics Teachers
-    icon: USAPhO
+    icon: 
     summary: |
       Top 45 in the United States.
 ---
