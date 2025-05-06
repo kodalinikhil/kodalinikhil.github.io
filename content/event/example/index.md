@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Latest Talk
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Panera Bread Convention
+event_url: https://www.panerabread.com/en-us/home.html
 
-location: Hugo Blox Builder HQ
+location: Panera Bread
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Panera Bread Street
+  city: San Francisco
   region: CA
-  postcode: '94305'
+  postcode: '94105'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Arguments analyzing the Panera Bread family meal deal.
+abstract: 'This is an example talk.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
